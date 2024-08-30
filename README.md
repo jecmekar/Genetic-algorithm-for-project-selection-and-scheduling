@@ -10,3 +10,4 @@ LP_model.ipynb - computational script with the linear programming model in PuLP 
 Excel files:
 Results_calibration.xlsx - this file contains calibration results - 480 runs of the proposed GA with different GA parameters settings;
 Results_operator_time.xlsx - this file contains results from post-computational analysis with computational time of GA evaluation and operators;
+Results_overall.xlsx - this file contains the final experiments with calibrated GA.
